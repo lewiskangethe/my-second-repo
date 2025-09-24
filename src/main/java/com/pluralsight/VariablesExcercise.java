@@ -6,7 +6,7 @@ public class VariablesExcercise {
     String vehicle_color = "black";
     boolean towing_package = true;
     int odometer = 67500;
-    double price = 18999.99;
+    float price = 18999.99f;
     String quality_rating = "B";
     String phone_number = "470-559-6597";
     String social_security = "568-87-9664";
